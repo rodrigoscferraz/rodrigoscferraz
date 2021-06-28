@@ -19,8 +19,8 @@ patterns.\
 <br><br>
 
 
-<a href="https://www.linkedin.com/in/rodrigo-ferraz-499b9771/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:rodrigoferrazsc@hotmail.com"><img alt="Hotmail" src="https://img.shields.io/badge/hotmail%20-%230077B5.svg?style=flat&logo=windows&logoColor=white" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/rodrigo-ferraz-499b9771/"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:rodrigoferrazsc@hotmail.com"><img align="center" alt="Hotmail" src="https://img.shields.io/badge/hotmail%20-%230077B5.svg?style=flat&logo=windows&logoColor=white" /></a> &nbsp;
 
 
 <br><br>
