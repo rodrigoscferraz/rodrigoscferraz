@@ -6,7 +6,6 @@
 
 ![version :28.06.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=rodrigoscferraz&color=red)&nbsp;
-[![GitHub RodrigoFerraz](https://img.shields.io/github/followers/rodrigoscferraz?label=follow&style=social)](https://github.com/rodrigoscferraz)&nbsp;
 
 
 ### 👨🏻‍💻 &nbsp;About Me
