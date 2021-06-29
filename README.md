@@ -4,7 +4,7 @@
 <br>
 
 
-![version :28.06.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
+![version :29.06.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=rodrigoscferraz&color=red)&nbsp;
 
 
@@ -16,11 +16,31 @@ patterns.\
 🌱 &nbsp;I'm on track for learning more about Istio, Prometheus, and Observability.\
 ✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
 📄 &nbsp;You can check my [Resume](https://1drv.ms/b/s!AhC8ZgbgS2pb_WnAA0UQUP8-Ggny?e=sa1meS) for more details about work experience.
-<br><br>
+<br><br><br>
+<hr>
+
+### 🔍 &nbsp;Find me
+
+<a href="https://www.linkedin.com/in/rodrigo-ferraz-499b9771/"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://dev.to/rodrigoscferraz"><img align="center" alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a> &nbsp;
+<a href="mailto:rodrigoferrazsc@hotmail.com"><img align="center" alt="Hotmail" src="https://img.shields.io/badge/Hotmail-0077B5?style=for-the-badge&logo=microsoft&logoColor=white" /></a> &nbsp;
 
 
-<a href="https://www.linkedin.com/in/rodrigo-ferraz-499b9771/"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:rodrigoferrazsc@hotmail.com"><img align="center" alt="Hotmail" src="https://img.shields.io/badge/hotmail%20-%230077B5.svg?style=flat&logo=windows&logoColor=white" /></a> &nbsp;
+<br>
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-003399?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-2962FF?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![Grafana](https://img.shields.io/badge/Grafana-e46c00?style=for-the-badge&logo=grafana&logoColor=white)&nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-330F63?style=for-the-badge&logo=terraform&logoColor=white)&nbsp;
+![Ansible](https://img.shields.io/badge/Ansible-0A0A0A?style=for-the-badge&logo=ansible&logoColor=white)&nbsp;
+
 
 
 <br><br>
