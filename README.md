@@ -4,7 +4,7 @@
 <br>
 
 
-![version :29.06.2021](https://img.shields.io/badge/version-29.06.2021-informational) &nbsp;
+![version :25.08.2021](https://img.shields.io/badge/version-29.06.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=rodrigoscferraz&color=red)&nbsp;
 
 
@@ -14,7 +14,7 @@
 patterns.\
 🎓 &nbsp;I'm currently studying Clouding Computing Projects and IT Projects at Descomplica, Brazil (2020-2021).\
 🌱 &nbsp;I'm on track for learning more about Istio, Prometheus, and Observability.\
-✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
+✍️ &nbsp;In my free time, I play games, guitar and pursue writing as my hobbies.\
 📄 &nbsp;You can check my [Resume](https://1drv.ms/b/s!AhC8ZgbgS2pb_WnAA0UQUP8-Ggny?e=sa1meS) for more details about work experience.
 <br><br><br>
 <hr>
