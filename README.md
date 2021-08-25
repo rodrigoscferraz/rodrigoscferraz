@@ -4,7 +4,7 @@
 <br>
 
 
-![version :25.08.2021](https://img.shields.io/badge/version-29.06.2021-informational) &nbsp;
+![version :25.08.2021](https://img.shields.io/badge/version-25.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=rodrigoscferraz&color=red)&nbsp;
 
 
