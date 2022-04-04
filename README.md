@@ -10,10 +10,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a Solutions Architect and DevOps lover, currently working in the field of microservices, trying to understand cloud conceps and his appliance for big environments
-patterns.\
-🎓 &nbsp;I'm currently studying Clouding Computing Projects and IT Projects at Descomplica, Brazil (2020-2021).\
-🌱 &nbsp;I'm on track for learning more about Istio, Prometheus, and Observability.\
+💡 &nbsp; I'm a DevOps lover, currently working in the field of microservices, trying to understand cloud conceps and his appliance for big environments.\
+🎓 &nbsp;I've a graduate degree in Clouding Computing Projects and a degree in Database Administration.\
+🌱 &nbsp;I'm on track for learning more about Go.\
 ✍️ &nbsp;In my free time, I play games, guitar and pursue writing as my hobbies.\
 📄 &nbsp;You can check my [Resume](https://1drv.ms/b/s!AhC8ZgbgS2pb_WnAA0UQUP8-Ggny?e=sa1meS) for more details about work experience.
 <br><br><br>
