@@ -15,7 +15,7 @@
 🌱 &nbsp;I'm on track for learning more about Go.\
 ✍️ &nbsp;In my free time, I play games, guitar and pursue writing as my hobbies.\
 📄 &nbsp;You can check my [Resume](https://1drv.ms/b/s!AhC8ZgbgS2pb_WnAA0UQUP8-Ggny?e=sa1meS) for more details about work experience.
-<br><br><br>
+<br><br><br><br>
 <hr>
 
 ### 🔍 &nbsp;Find me
