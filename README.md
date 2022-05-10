@@ -4,7 +4,7 @@
 <br>
 
 
-![version :25.08.2021](https://img.shields.io/badge/version-25.08.2021-informational) &nbsp;
+![version :10.05.2022](https://img.shields.io/badge/version-25.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=rodrigoscferraz&color=red)&nbsp;
 
 
@@ -14,7 +14,7 @@
 🎓 &nbsp;I've a graduate degree in Clouding Computing Projects and a degree in Database Administration.\
 🌱 &nbsp;I'm on track for learning more about Go.\
 ✍️ &nbsp;In my free time, I play games, guitar and pursue writing as my hobbies.\
-📄 &nbsp;You can check my [Resume](https://1drv.ms/b/s!AhC8ZgbgS2pb_WnAA0UQUP8-Ggny?e=sa1meS) for more details about work experience.
+📄 &nbsp;You can check my [Resume](https://1drv.ms/b/s!AhC8ZgbgS2pbhLwNPEq0KZoAA6XIog?e=sBmUtY) for more details about work experience.
 <br><br><br><br>
 <hr>
 
@@ -30,6 +30,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/Go-0089D6?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
@@ -39,6 +40,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-e46c00?style=for-the-badge&logo=grafana&logoColor=white)&nbsp;
 ![Terraform](https://img.shields.io/badge/Terraform-330F63?style=for-the-badge&logo=terraform&logoColor=white)&nbsp;
 ![Ansible](https://img.shields.io/badge/Ansible-0A0A0A?style=for-the-badge&logo=ansible&logoColor=white)&nbsp;
+![Istio](https://img.shields.io/badge/Istio-2962FF?style=for-the-badge&logo=istio&logoColor=white)&nbsp;
 
 
 
