@@ -10,9 +10,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a DevOps lover, currently working in the field of microservices, trying to understand cloud conceps and his appliance for big environments.\
+💡 &nbsp; I'm a DevOps culture lover, currently working in the field of microservices, trying to understand cloud concepts and how to apply it on big environments.\
 🎓 &nbsp;I've a graduate degree in Clouding Computing Projects and a degree in Database Administration.\
-🌱 &nbsp;I'm on track for learning more about Go.\
+🌱 &nbsp;I'm on track for learning more about Rust.\
 ✍️ &nbsp;In my free time, I play games, guitar and pursue writing as my hobbies.\
 📄 &nbsp;You can check my [Resume](https://1drv.ms/b/s!AhC8ZgbgS2pbhLwNPEq0KZoAA6XIog?e=sBmUtY) for more details about work experience.
 <br><br><br><br>
